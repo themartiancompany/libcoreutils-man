@@ -24,10 +24,10 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# EVM Contracts Tools manual
+# Certificate Tools (`cert-tools`) manuals
 
-The [EVM Contracts Tools](
-  https://github.com/themartiancompany/evm-contracts-tools)
+The [Certificate Tools](
+  https://github.com/themartiancompany/cert-tools)
 manuals.
 
 ## Installation
@@ -45,7 +45,7 @@ the uncensorable
 [Ur](
   https://github.com/themartiancompany/ur)
 user repository and application store as
-`evm-contracts-tools`.
+`cert-tools`.
 The source code is published on the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
@@ -55,14 +55,14 @@ To install it from there just type
 
 ```bash
 ur \
-  evm-contracts-tools
+  cert-tools
 ```
 
 A censorable HTTP Github mirror of the recipe published there,
 containing a full list of the software dependencies needed to run the
 tools is hosted on
-[evm-contracts-tools-ur](
-  https://github.com/themartiancompany/evm-contracts-tools-ur).
+[cert-tools-ur](
+  https://github.com/themartiancompany/cert-tools-ur).
 Be aware the mirror could go offline any time as Github and more
 in general all HTTP resources are inherently unstable and censorable.
 
@@ -72,7 +72,7 @@ can be installed with
 ```bash
 npm \
   install \
-    evm-contracts-tools
+    cert-tools
 ```
 
 ## License

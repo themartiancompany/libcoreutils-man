@@ -28,7 +28,7 @@
 
 
 ==============================================
-EVM Contracts Tools manuals authors
+Certificate Tools manuals authors
 ==============================================
 
 * Pellegrino Prevete
