@@ -27,9 +27,9 @@
    If not, see <https://www.gnu.org/licenses/>.
 
 
-==============================================
-Certificate Tools manuals authors
-==============================================
+==================================================
+The Martian Company's Split manuals authors
+==================================================
 
 * Pellegrino Prevete
   * eth-mail

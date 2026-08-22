@@ -24,11 +24,11 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# Certificate Tools (`cert-tools`) manuals
+# The Martian Company's Split (`tmcsplit`) manuals
 
-The [Certificate Tools](
-  https://github.com/themartiancompany/cert-tools)
-manuals.
+[The Martian Company's Split](
+  https://github.com/themartiancompany/tmcsplit)
+GNU Split Javascript implementation manuals.
 
 ## Installation
 
@@ -45,7 +45,7 @@ the uncensorable
 [Ur](
   https://github.com/themartiancompany/ur)
 user repository and application store as
-`cert-tools`.
+`tmcsplit`.
 The source code is published on the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
@@ -55,24 +55,27 @@ To install it from there just type
 
 ```bash
 ur \
-  cert-tools
+  tmcsplit
 ```
 
 A censorable HTTP Github mirror of the recipe published there,
 containing a full list of the software dependencies needed to run the
 tools is hosted on
-[cert-tools-ur](
-  https://github.com/themartiancompany/cert-tools-ur).
+[tmcsplit-ur](
+  https://github.com/themartiancompany/tmcsplit-ur).
 Be aware the mirror could go offline any time as Github and more
 in general all HTTP resources are inherently unstable and censorable.
 
-A package has also been released on NPM as `evm-wallet.js` and
-can be installed with
+A package has also been released on the Node Package Manager (NPM)
+Registry as
+[`tmcsplit`](
+  https://npmjs.com/package/tmcsplit)
+and can be installed with
 
 ```bash
 npm \
   install \
-    cert-tools
+    tmcsplit
 ```
 
 ## License

@@ -26,7 +26,8 @@
 #    along with this program.
 #    If not, see <https://www.gnu.org/licenses/>.
 
-_PROJECT=cert-tools
+_PROJECT=tmcsplit
+_PROJECT_NPM=$(_PROJECT)
 PREFIX ?= /usr/local
 DOC_DIR=$(DESTDIR)$(PREFIX)/share/doc/$(_PROJECT)
 DATA_DIR=$(DESTDIR)$(PREFIX)/share/$(_PROJECT)
@@ -34,7 +35,6 @@ MAN_DIR?=$(DESTDIR)$(PREFIX)/share/man
 
 MAN_FILES=\
   $(wildcard *1.rst)
-
 DOCS_FILES=\
   $(wildcard *.md)
 
