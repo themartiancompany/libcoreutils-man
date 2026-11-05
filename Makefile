@@ -26,7 +26,7 @@
 #    along with this program.
 #    If not, see <https://www.gnu.org/licenses/>.
 
-_PROJECT=tmcsplit
+_PROJECT=libcoreutils
 _PROJECT_NPM=$(_PROJECT)
 PREFIX ?= /usr/local
 DOC_DIR=$(DESTDIR)$(PREFIX)/share/doc/$(_PROJECT)
